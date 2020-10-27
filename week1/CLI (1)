@@ -1,0 +1,7 @@
+How to creat a hidden file or folder: 
+ mkdir .hiddenfolder       where hiddenfolder is the name of the file or folder you want to hide
+ To display it in the CLI:    ls -a
+ To creat a multiple directory: mkdir -p  this/is/week1/homework
+ How to append a message to a file without a new character: 
+ echo "first message" > commandline.txt 
+ echo "second message">> commandline.txt
